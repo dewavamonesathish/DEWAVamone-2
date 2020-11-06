@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+
+// Ignore svn files
+DEWA_06112020/.svn/*
+DEWA_06112020/Content/Assets/DownloadedMeshes/Sandstones/1/Aset_rock_sandstone_M_rjmsP_8K_Normal_LOD0.uasset
+DEWA_06112020/Saved/*
+DEWA_06112020/Build/*
+DEWA_06112020/Binaries/*
